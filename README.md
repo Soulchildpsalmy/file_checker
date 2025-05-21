@@ -13,7 +13,7 @@ This script takes a filename as an argument and checks whether the specified fil
 ```bash
 chmod +x file-checker.sh
 
-## Run the script
+**### 2.Run the script** 
 
 ./file-checker.sh <filename>
 
